@@ -25,8 +25,8 @@ When searching in large list of corpora too, I didn't find mention to Malagasy.
 - [Statistical natural language processing and corpus-based computational linguistics: An annotated list of resources - Stanford NLP](https://nlp.stanford.edu/links/statnlp.html)
 - [List of text corpora - Wikipedia](https://en.wikipedia.org/wiki/List_of_text_corpora)
 
-Beside this fact, I found that malgasy web sites was indexed by some open crawling and archiving
-of the Web projects like [Common Crawl](http://commoncrawl.org) and [Archive.org](https://archive.org).
+Beside this fact, I found that malgasy web sites was indexed by some open projects crawling and archiving
+of the Web, like [Common Crawl](http://commoncrawl.org) and [Archive.org](https://archive.org).
 
 I get to know it by requesting people in the facebook group
 [facedev.mg](https://www.facebook.com/groups/facedev.mg/permalink/1433233820034113/)
