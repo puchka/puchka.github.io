@@ -9,7 +9,7 @@ corpora for malagasy language and the approach I propose to
 do it.
 
 After that -if I have enough time and energy- I'll write about
-the project BetaX community that I have in mind for a while.
+the BetaX community project that I have in mind for a while.
 
 Feedback are welcome. My contact can be found on my github account.
 
