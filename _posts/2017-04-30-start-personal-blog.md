@@ -1,6 +1,6 @@
 During this long week-end, I'll start to write some blog posts
 about project ideas that I had in mind.
-I do this in order to document them in order to point people
+I do this in order to document them so that I can point people
 to them when discussing about the project around me.
 And also to be a mean to engage more people in them.
 
