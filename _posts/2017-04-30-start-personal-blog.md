@@ -1,3 +1,8 @@
+---
+layout: default
+comments: true
+---
+
 During this long week-end, I'll start to write some blog posts
 about project ideas that I had in mind.
 I do this in order to document them so that I can point people
