@@ -30,7 +30,7 @@ of the Web, like [Common Crawl](http://commoncrawl.org) and [Archive.org](https:
 
 I get to know it by requesting people in the facebook group
 [facedev.mg](https://www.facebook.com/groups/facedev.mg/permalink/1433233820034113/)
-to and in comment malagasy websites that they know.
+to add in comment malagasy websites that they know.
 
 I just found that there was a repository list for malagasy website too : [Malagasy sites](http://takelaka.org)
 
