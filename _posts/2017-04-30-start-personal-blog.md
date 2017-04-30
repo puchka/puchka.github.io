@@ -1,4 +1,4 @@
-For this long week-end, I'll start to write some blog pots
+For this long week-end, I'll start to write some blog posts
 about project ideas that I had in mind.
 I do this for documenting them so that I can point people
 to them when discussing about the project.
