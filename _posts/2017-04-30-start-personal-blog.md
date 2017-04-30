@@ -5,7 +5,7 @@ to them when discussing about the project around me.
 And also to be a mean to engage more people in them.
 
 I plan to publish a blog post about the project to build a
-corpora for malagasy language and the approach I propose to
+corpus for malagasy language and the approach I propose to
 do it.
 
 After that -if I have enough time and energy- I'll write about
