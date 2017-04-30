@@ -39,4 +39,5 @@ References
 ==============
 
 [1] [BetaX](http://www.betax.mg)
+
 [2] [Using Waypoints in Routes](https://developers.google.com/maps/documentation/javascript/directions?hl=en#Waypoints)
