@@ -29,7 +29,7 @@ a bus that we know.
 
 I'll release and describe in a future post the scripts we used to make it and the bus line paths we managed to make.
 
-It uses of the DirectionsService object to fetch directions for a route including waypoints. [2]
+It uses the DirectionsService object to fetch directions for a route including waypoints. [2]
 
 I hope the community interested in making the public transportation in Madagascar better will be eager to participate in this initiative.
 
