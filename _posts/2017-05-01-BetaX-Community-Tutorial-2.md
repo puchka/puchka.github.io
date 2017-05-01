@@ -4,7 +4,7 @@ comments: true
 ---
 
 There are some restrictions when using the toolchain
-I previously realeased. [1]
+I realeased previously. [1]
 
 Firt, there is the restriction on the number of way points allowed by the Directions API.
 
