@@ -24,15 +24,15 @@ of data and make edit on it.
 
 - Make a new version of BetaX using these data :)
 
-I propose to store the data relative to bus line and bus stops in
-PostreSQL with the PostGIS extension which is a spatial database extender for PostgreSQL. [1]
+I propose to store the data relative to bus lines and bus stops in
+PostgreSQL with the PostGIS extension which is a spatial database extender for PostgreSQL. [1]
 
 It allows storage and query of information about location and mapping.
 
 After, pgRouting extends the PostGIS / PostgreSQL geospatial database
 to provide geospatial routing functionality. [2]
 
-I Hope it will motivate the community to contribute data.
+I Hope that this post will motivate the community to contribute data.
 
 There is more to happen, stay tuned ;)
 
