@@ -6,7 +6,7 @@ comments: true
 There are some restrictions when using the toolchain
 that I realeased previously. [1]
 
-Firt, there is the restriction on the number of way points allowed by the Directions API.
+First, there is the restriction on the number of way points allowed by the Directions API.
 
 The number of way points is limited to 23 max. [2]
 
