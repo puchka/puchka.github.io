@@ -40,3 +40,6 @@ here : [BetaX Community](https://github.com/puchka/BetaX-Community)
 Open the generated .html file which will display the route in a Map.
 
 ![ ]({{ site.url }}/assets/img/capture_9.png "Result in a Map")
+
+Last but not least, [fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+the repo of [BetaX community](https://github.com/puchka/BetaX-Community) and send a pull request ;)
