@@ -3,9 +3,6 @@ layout: post
 comments: true
 ---
 
-Archlinux Installation
-======================
-
 I was going through the process of installing Archlinux on a laptop
 the last 2 days.
 
@@ -47,5 +44,7 @@ Reference
 ----------
 
 [1] https://wiki.archlinux.org/index.php/Installation_guide#Partition_the_disks
+
 [2] https://wiki.archlinux.org/index.php/GRUB#Installation
+
 [3] https://wiki.archlinux.org/index.php/Wpa_supplicant#Connecting_with_wpa_passphrase
