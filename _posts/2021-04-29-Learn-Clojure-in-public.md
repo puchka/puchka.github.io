@@ -19,15 +19,15 @@ by Daniel Higginbotham.
 Recently, I started reading it again during the second lockdown in Mauritius.
 I also don't remember why exactly I started, but I'm back at it right now.
 
-I will try to track my learning by posting here and in [https://twitter.com/MariusRabenariv/](Twitter)
+I will try to track my learning by posting here and in [Twitter](https://twitter.com/MariusRabenariv/)
 to document my thought process and also to be more accountable this time :grinning:
 
 My goal this time will be to know enough Clojure to contribute to an Open Source project.
-I recently learned about [https://github.com/athensresearch](Athens Reasearch) and it's awesome community.
+I recently learned about [Athens Reasearch](https://github.com/athensresearch) and it's awesome community.
 I would definitely contribute to it as soon as I know enough ClojureScript and re-frame.
 
 Last year when learning Clojure for the first time, I started a pet project named
-[https://github.com/puchka/memecollect](memecollect), an application to collect and share collections of memes :)
+[memecollect](https://github.com/puchka/memecollect), an application to collect and share collections of memes :)
 
 I definitely didn't know enough ClojureScript when I started it, but I enjoyed the process and learned a lot I guess.
 
@@ -38,7 +38,7 @@ I finally managed to do it, so I was motivated to start this blog post. \m/
 I also take a look at how I implemented it last year when I read the book the first time and
 it was relatively different compared to how I approached it today.
 
-Find below the both versions :
+Find below both versions :
 
 
 ```
