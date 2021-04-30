@@ -5,6 +5,9 @@ comments: true
 
 I began to learn Clojure last year.
 
+![ ]({{ site.url }}/assets/img/clojure-coffee-shop.jpg
+"Looking at old photos reminded me that it was in fact in 2019 that I started reading "Clojure for the Brave and True"")
+
 The desire to learn it was back in 2015 when I started programming in a real job.
 I don't remember why exactly, but I think that it was after reading "Hackers and Painters"
 by Paul Graham, namely the essay entitled "Beating the average" which describes the
