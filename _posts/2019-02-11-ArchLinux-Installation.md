@@ -20,7 +20,7 @@ I had some issues that was not trivial to resolve and I will discuss them below.
 # wpa_supplicant -B -i interface -c <(wpa_passphrase MYSSID passphrase)
 ```
 
-> To show the available network devices, run the the command below:
+> To show the available network interfaces, run the the command below:
 ```
 $ ip link show
 ```
