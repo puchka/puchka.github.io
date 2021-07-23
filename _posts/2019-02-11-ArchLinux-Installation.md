@@ -20,6 +20,11 @@ I had some issues that was not trivial to resolve and I will discuss them below.
 # wpa_supplicant -B -i interface -c <(wpa_passphrase MYSSID passphrase)
 ```
 
+> To show the available network devices, run the the command below:
+```
+$ ip link show
+```
+
 > Note: Because of the process substitution, you cannot run this command with sudo and must use a root shell, see Help:Reading#Regular user or root for more explanations. Just pre-pending sudo will lead to the following error: [1]
 ```
 Successfully initialized wpa_supplicant
