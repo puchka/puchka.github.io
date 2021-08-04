@@ -3,7 +3,7 @@ layout: post
 comments: true
 ---
 
-I'm currently going through the execice of installing a Bitcoin full node.
+I'm currently going through the exercise of installing a Bitcoin full node.
 
 In this post I will write about how I verified the Bitcoin core release signatures file.
 
@@ -37,6 +37,6 @@ gpg --with-fingerprint laanwj-releases.asc
 References
 ==========
 
-https://bitcoin.org/en/full-node#linux-instructions
-https://bitcoin.org/en/download
-http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
+* https://bitcoin.org/en/full-node#linux-instructions
+* https://bitcoin.org/en/download
+* http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
