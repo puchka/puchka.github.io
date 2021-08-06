@@ -42,6 +42,26 @@ Then obtain an ip address manually
 # dhcpcd interface
 ```
 
+If the router doesn't have DHCP activated, the process of obtaining new IP address, add default route and DNS server has to be done manually. [6]
+
+```bash
+ip addr add 192.168.1.1/24 dev em1
+ip route add default via 192.168.1.1 dev em1
+resolvectl dns em1 8.8.8.8
+```
+
+You need to enable `systemd-resolved.service` before using `resolvectl` [7]
+
+Check if it's running and enabled.
+```bash
+systemctl status systemd-resolved.service
+```
+
+Enable and start it.
+```bash
+systemctl enable systemd-resolved.service
+```
+
 * The swap partition need to be primary if not mkswap will fail [1]
 
 ```
@@ -69,3 +89,7 @@ Reference
 [4] https://wiki.archlinux.org/index.php/GRUB#Installation
 
 [5] https://wiki.archlinux.org/index.php/Wpa_supplicant#Connecting_with_wpa_passphrase
+
+[6] https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf
+
+[7] https://superuser.com/questions/1427311/activation-via-systemd-failed-for-unit-dbus-org-freedesktop-resolve1-service
